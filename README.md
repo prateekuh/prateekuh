@@ -111,15 +111,12 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
   </a>
 </p>
 
-<h1 align="center" style="color:#2F80ED;">
+<h1 align="center" style="color:#2F80ED">
   Dominate. Execute. Win.
 </h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=650&color=2F80ED&center=true&vCenter=true&width=900&lines=Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems.;Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems."
-    alt="mindset"
-  />
+  >_Dominate the problem. Execute with precision. Win through reliable systems_
 </p>
 
 
