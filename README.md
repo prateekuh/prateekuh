@@ -103,14 +103,6 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/Prateek U H" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prateek%20U%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Dominate.%20Execute.%20Win.&fontSize=40&fontColor=2F80ED" />
 </p>
