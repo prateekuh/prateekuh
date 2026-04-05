@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | QA Automation Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hi+I'm+Prateek;Product+Engineer+@+AVO+Automation;QA+Automation+Specialist;Full+Stack+Developer+in+Progress;Building+Cool+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hi+I'm+Prateek;Product+Engineer+@+AVO+Automation;Full+Stack+Developer;Building+Cool+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
