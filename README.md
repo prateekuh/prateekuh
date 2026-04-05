@@ -110,11 +110,10 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
   <img src="https://img.shields.io/badge/LinkedIn-Prateek%20U%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<p>
-<h1 align="center" style="color:#2F80ED;">
-  Dominate. Execute. Win.
-</h1>
- align="center">
-  _Dominate the problem. Execute with precision. Win through reliable systems_
+
+<p align="center">
+  <span style="font-size:2.2em; color:#2F80ED; font-weight:700;">
+    Dominate. Execute. Win.
+  </span>
 </p>
 
