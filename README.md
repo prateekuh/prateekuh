@@ -106,16 +106,17 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
 ## 🤝 Connect With Me
 
 <p align="left">
-  https://www.linkedin.com/in/Prateek U H
-    https://img.shields.io/badge/LinkedIn-Prateek%20U%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  <a href="https://www.linkedin.com/in/Prateek U H" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prateek%20U%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  https://capsule-render.vercel.app/api?type=transparent&text=Dominate.%20Execute.%20Win.&fontSize=40&fontColor=2F80ED
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Dominate.%20Execute.%20Win.&fontSize=40&fontColor=2F80ED" />
 </p>
 
 <p align="center">
-  https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=650&color=2F80ED&center=true&vCenter=true&width=900&lines=Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems.;Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=650&color=2F80ED&center=true&vCenter=true&width=900&lines=Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems.;Dominate+the+problem.+Execute+with+precision.+Win+through+reliable+systems." />
 </p>
+
 
