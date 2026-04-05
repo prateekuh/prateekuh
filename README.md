@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <b style="color:red;">🔥 Dominate. Execute. Win. 🔥</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Dominate.Execute.Win&repeat=false&pause=100000" />
 </p>
 
 ---
