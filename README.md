@@ -112,8 +112,6 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
 </p>
 
 <p align="center">
-  <span style="font-size:2.2em; color:#2F80ED; font-weight:700;">
-    Dominate. Execute. Win.
-  </span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=2F80ED&text=Dominate.%20Execute.%20Win.&fontSize=38&fontColor=ffffff" />
 </p>
 
