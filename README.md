@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FBB741&center=true&vCenter=true&lines=Dominate.Execute.Win&repeat=false&pause=100000" />
+  <img src="https://readme-svg.herokuapp.com?color=FBB741&center=true&vCenter=true&lines=Dominate.Execute.Win&repeat=false&pause=100000" />
 </p>
 
 ---
