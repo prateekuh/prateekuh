@@ -107,3 +107,15 @@ Designed and implemented a **Self‑Healing AI Agent** for automation testing:
 
 <p>
   <a href="www.linkedin.com/in/prateek-u-h-20a909245" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Prateek%20U%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=800&color=2F80ED&center=true&vCenter=true&width=500&lines=Dominate.;Execute.;Win." 
+    alt="Mindset animation"
+  />
+</p>
+``
+
