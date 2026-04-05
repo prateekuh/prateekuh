@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prateek</h1>
+<h3 align="center">Full Stack Developer | QA Automation Engineer</h3>
 
-<!--
-**prateekuh/prateekuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;QA+Automation+Engineer;Building+the+Future;Dominate.Execute.Win" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Dominate. Execute. Win.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+- 💻 Working in AVO Automation
+- ⚡ Love building cool projects
+
+---
+
+## 🛠️ Tech Stack
+- Java | JavaScript | Spring Boot | 
+- React | MySQL
+- Git | Automation Testing
+
+---
+
+## 📊 GitHub Stats
