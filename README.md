@@ -30,6 +30,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateekuh&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekuh&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=10" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekuh&theme=chartreuse-dark&hide_border=true" />
 </p>
